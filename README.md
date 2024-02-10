@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lgsurith" alt="lgsurith" /></a> </p>
 
-- 🌱 I’m currently learning **DSA(using cpp)**
+- 🌱 I’m currently learning **DSA(using cpp) as well as some OPENCV on the side**
 
 - 💬 Ask me about **Blockchain , Quant , Problem solving (Optimisation)**
 
